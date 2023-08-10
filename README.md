@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vaibhav Prakash
-- 👀 I’m interested in MERN Stack and Microservices
+- 👀 I’m interested in Java Full Stack and Microservices
 - 🌱 I’m currently learning Microservices
-- 💞️ I’m looking to collaborate on any MERN Stack project.
+- 💞️ I’m looking to collaborate on any Java Full Stack project.
 - 📫 Contact me @vaibhav.prakash.mail@gmail.com
 
 <!---
