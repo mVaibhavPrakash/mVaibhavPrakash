@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vaibhav Prakash
 - 👀 I’m interested in Agentic AI, Frontend and Full Stack developer role.
-- 🌱 I’m currently learning Microservices
+- 🌱 I’m currently mastering Agentic AI and System Design
 - 💞️ I’m looking to collaborate on any exciting coding project.
 - 📫 Contact me @vaibhav.prakash.mail@gmail.com
 
