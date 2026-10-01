@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vaibhav Prakash
-- 👀 I’m interested in Java Full Stack and Microservices
+- 👀 I’m interested in Agentic AI, Frontend and Full Stack developer role.
 - 🌱 I’m currently learning Microservices
-- 💞️ I’m looking to collaborate on any Java Full Stack project.
+- 💞️ I’m looking to collaborate on any exciting coding project.
 - 📫 Contact me @vaibhav.prakash.mail@gmail.com
 
 <!---
